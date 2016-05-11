@@ -6,9 +6,9 @@ To-do: Add Arduino code
 
 You'll need to change the following items in the script:
 
--Ubidots API Key
--Ubidots Variable IDs
--Port name, if not /dev/ttyACM0
+* Ubidots API Key
+* Ubidots Variable IDs
+* Port name, if not /dev/ttyACM0
 
 ## Usage
 
