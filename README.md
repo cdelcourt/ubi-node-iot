@@ -1,5 +1,7 @@
 # ubi-iot
 
+![Ubidots Screenshot](http://img.photobucket.com/albums/v234/Anode/Screen%20Shot%202016-05-12%20at%2009.51.31%20_zpsrhzeh27d.png)
+
 To-do: Add Arduino code
 
 ## Things you'll need to change in the script before using
